@@ -1,2 +1,81 @@
-# Coursework
-Block05
+<!DOCTYPE html>
+<html lang="en-US"> 
+    <head>
+        <title>Rhyan's Zoo Animals</title>
+    </head>
+    <link rel="stylesheet" href="styles.css">
+<body>
+
+<h1>My Zoo</h1>
+<p>By Rhyan Taylor.</p>
+
+
+<h2>Bears &#128059;</h2> 
+    <ul> 
+        <li> Jason</li>
+        <img src="Jason.jpg" alt="Jason the bear">
+        <br>
+        <li> Ollie</li>
+
+        <img src="Ollie.jpg" alt="Ollie the bear">
+         
+
+    </ul>
+        <p><b>Bear facts:</b> Bears are mammals that belong to the family Ursidae. They can be as small as four feet long and about 60 pounds (the sun bear) to as big as eight feet long and more than a thousand pounds (the polar bear). They're found throughout North America, South America, Europe, and Asia.</p>
+        <a href="https://www.nationalgeographic.com/animals/mammals/facts/bears-grizzly-polar-panda" target="_blank">Bear FAQ</a> 
+<br> 
+
+<h2> Giraffes &#129426; </h2>
+    <ul>
+<li> Earl</li>
+        <img src="Earl.jpg" alt="Earl the Giraffe"> 
+        <br>
+        <li>Norman</li>
+        <img src="Norman.jpg" alt="Norman the Giraffe">
+    </ul>
+        <p><b>Giraffe facts:</b>Giraffes are the world's tallest mammals, thanks to their towering legs and long necks. A giraffe's legs alone are taller than many humans—about 6 feet . These long legs allow giraffes to run as fast as 35 miles an hour over short distances and cruise comfortably at 10 miles an hour over longer distances.</p>
+            <a href="https://www.visionsoftheworld.org/giraffes?gclid=Cj0KCQjwgNanBhDUARIsAAeIcAv5sCqlcBZyfEw2ubE4Oyb2G6mUg0ikxQN1ANC17YMikFw0_3Ys4CkaAuTaEALw_wcB"target ="_blank">Giraffe FAQ</a>
+
+            <h2> Lions &#129409;</h2>
+                <ul>
+                     <li> Nilah </li>
+                     <img 
+                     src="Nilah.jpg" alt="Nilah the lion">
+                    <li>Diego</li>
+                    <img
+                    src="Diego.jpg" alt="Diego the lion">
+                     </ul>
+                            <p><b>Lion facts: </b> The lion has forever been a symbol of strength, power and ferocity. During WWF tours to Africa, seeing the majestic species up-close is sure to be a spine-tingling experience. 10. African lions are the most social of all big cats and live together in groups or “prides.” A pride consists of about 15 lions. </p>
+                        <a href="https://www.worldanimalprotection.ca/education/animal-facts/lion-facts?ea.tracking.id=google_grant&utm_source=google_grant&utm_medium=google_grant&utm_campaign=google_grant&utm_content=lion%20facts"target="_blank">Lion FAQ</a>
+                
+            <h2>Monkeys &#128584; </h2>
+                <ul>
+                    <li>Naomi</li>
+                    <img src="Naomi.jpg" alt=" Naomi the monkey">
+                    <br>
+                    <li>Coco</li>
+                    <img src="Coco.jpg" alt="Coco the monkey">
+                    <br>
+                    <li> Earnie</li>
+                    <img src="Earnie.jpg" alt="Earnie the monkey">
+                </ul>
+                    <p><b>Monkey facts: </b> Monkeys are agile, intelligent primates—some of the closest animal relatives to humans.</p>
+                    <a href="https://www.livescience.com/27944-monkeys.html" target="_blank">Monkey FAQ</a>
+
+                <h2> Aligators</h2>
+                    <ul>   
+                        <li>Birkin</li>
+                        <img src="Birkin.jpg" alt="Birkin bag">
+                        <br>
+                        <li>Chanel</li>
+                        <img src="Chanel.jpg" alt="Chanel bag">
+                        <br>
+                        <li>Michael Kors</li>
+                        <img src="Michael Kors.jpg" alt ="MK bag">
+                    </ul>
+                        <p><b> Aligator facts: </b> The alligator uses its powerful tail to propel itself through water. While alligators move very quickly in water, they are generally slow-moving on land. They can, however, move quickly for short distances. Alligators are a keystone species benefiting the marshes, swamps, rivers and lakes where they live and many other species found within their natural community.</p> 
+
+                        <a href="https://defenders.org/wildlife/american-crocodile-and-alligator?utm_source=google&utm_medium=paidsearch&utm_campaign=prospecting&utm_content=Grant-Evergreen-crocodilesandalligators&supporter.appealCode=3WDW2300PJXXX&en_og_source=FY23_Google_Grant&gad=1&gclid=Cj0KCQjwgNanBhDUARIsAAeIcAt1-5Q7JeXFShB44asH_RDeMgZlmqoBpN9IwYW8hcFiIVUfAjxhsBcaAiVjEALw_wcB" target="_blank">Aligator FAQ </a>
+
+                        </body>
+</html> 
